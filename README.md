@@ -1,5 +1,5 @@
 # common-wordpress-docker
-Clone this repo and and edit or add files to wordprss,and use with docker
+Clone this repo and and edit or add files to wordpress,and use with docker
 
 ### Dockerfile##########
 The Dockerfile is based on ubuntu image and added php,mysql and apache, necessary to run a wordpress website
